@@ -3,5 +3,16 @@
     "description": "Facebook extension for UserProvider library",
     "type": "metapackage",
     "license": "MIT",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "yedincisenol\\UserProviderFacebook\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "yedincisenol\\UserProviderFacebook\\UserProviderFacebookServiceProvider"
+            ]
+        }
+    }
 }
