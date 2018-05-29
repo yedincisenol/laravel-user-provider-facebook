@@ -7,6 +7,9 @@
             "yedincisenol\\UserProviderFacebook\\": "src/"
         }
     },
+    "require": {
+        "yedincisenol/laravel-user-provider": "*",
+    }
     "extra": {
         "laravel": {
             "providers": [
