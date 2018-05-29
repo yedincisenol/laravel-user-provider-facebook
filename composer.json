@@ -1,5 +1,5 @@
 {
-    "name": "yedincisenol/user-provider-facebook",
+    "name": "yedincisenol/laravel-user-provider-facebook",
     "description": "Facebook extension for UserProvider library",
     "license": "MIT",
     "autoload": {
