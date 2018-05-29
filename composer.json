@@ -9,7 +9,7 @@
     },
     "require": {
         "yedincisenol/laravel-user-provider": "*",
-    }
+    },
     "extra": {
         "laravel": {
             "providers": [
