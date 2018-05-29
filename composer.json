@@ -8,7 +8,7 @@
         }
     },
     "require": {
-        "yedincisenol/laravel-user-provider": "*",
+        "yedincisenol/laravel-user-provider": "*"
     },
     "extra": {
         "laravel": {
