@@ -1,7 +1,6 @@
 {
     "name": "yedincisenol/user-provider-facebook",
     "description": "Facebook extension for UserProvider library",
-    "type": "metapackage",
     "license": "MIT",
     "autoload": {
         "psr-4": {
